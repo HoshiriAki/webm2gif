@@ -60,7 +60,7 @@ def convert_webm_to_gif(input_path, output_folder):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert WebM to GIF",
-                                     epilog="Example usage: python script_name.py -i input_webm_folder -o output_gif_folder")
+                                     epilog="Example usage: webm2gif -i input_webm_folder -o output_gif_folder")
     parser.add_argument("-i", "--input", help="Input directory or single WebM file", required=True)
     parser.add_argument("-o", "--output", help="Output directory for GIF files", required=True)
 
