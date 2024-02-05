@@ -16,8 +16,7 @@ No external dependencies are required to run the executable.
 
 ## Download
 
-Download the executable file here: [webm2gif.exe](link/to/webm2gif.exe)
-- Replace `link/to/webm2gif.exe` with the actual link to your executable file.
+Download the executable file here: [webm2gif.exe](webm2gif.exe)
 
 ## Usage
 
