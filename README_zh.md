@@ -15,7 +15,7 @@
 
 ## 下载
 
-在这里下载可执行文件：[webm2gif.exe](webm2gif.exe)
+在这里下载可执行文件：[webm2gif.exe](dist/webm2gif.exe)
 
 ## 使用方法
 
