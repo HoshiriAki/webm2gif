@@ -25,7 +25,7 @@ missing module named _manylinux - imported by pkg_resources._vendor.packaging._m
 missing module named jinja2 - imported by pkg_resources._vendor.pyparsing.diagram (top-level)
 missing module named pyparsing - imported by pkg_resources._vendor.pyparsing.diagram (top-level)
 missing module named railroad - imported by pkg_resources._vendor.pyparsing.diagram (top-level)
-missing module named posix - imported by posixpath (optional), shutil (conditional), importlib._bootstrap_external (conditional), os (conditional, optional)
+missing module named posix - imported by os (conditional, optional), posixpath (optional), shutil (conditional), importlib._bootstrap_external (conditional)
 missing module named resource - imported by posix (top-level)
 missing module named termios - imported by tty (top-level), psutil._compat (delayed, optional), getpass (optional), tqdm.utils (delayed, optional)
 missing module named _frozen_importlib_external - imported by importlib._bootstrap (delayed), importlib (optional), importlib.abc (optional), zipimport (top-level)
