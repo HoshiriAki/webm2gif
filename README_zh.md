@@ -15,8 +15,7 @@
 
 ## 下载
 
-在这里下载可执行文件：[webm2gif.exe](link/to/webm2gif.exe)
-- 将 `link/to/webm2gif.exe` 替换为实际的可执行文件链接。
+在这里下载可执行文件：[webm2gif.exe](webm2gif.exe)
 
 ## 使用方法
 
