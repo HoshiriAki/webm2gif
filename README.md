@@ -1,7 +1,7 @@
 <div align="center">
 
 # WebM to GIF Converter
-[English](link/to/README.md) | [简体中文](link/to/README_zh.md)
+[English](README.md) | [简体中文](README_zh.md)
 
 </div>
 
