@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # WebM to GIF Converter
@@ -8,11 +10,11 @@
 
 ## Introduction
 
-This is an executable version of the WebM to GIF Converter, a Python script that converts WebM video files to GIF format.
+This is the executable version of the WebM to GIF Converter, a Python script that converts WebM video files to GIF format.
 
 ## Requirements
 
-No external dependencies are required to run the executable. 
+No external dependencies are required to run the executable.
 
 ## Download
 
@@ -20,14 +22,15 @@ Download the executable file here: [webm2gif.exe](dist/webm2gif.exe)
 
 ## Usage
 
-1. Open a command prompt in the directory where the executable is located.
+1. Open a command prompt or terminal in the directory where the executable is located.
 
 2. Run the following command to convert a single WebM file:
    ```bash
-   webm2gif.exe -i <input_webm_file.webm> -o <output_gif_folder>
+   webm2gif.exe -i <input_webm_file.webm> -o <output_gif_folder> -l <loop_count>
    ```
    - `-i` or `--input`: Input WebM file.
    - `-o` or `--output`: Output directory for GIF files.
+   - `-l` or `--loop`: Set the number of times the image loops, default is 0 (for infinite loop).
 
 3. Run the following command to convert all WebM files in a directory:
    ```bash

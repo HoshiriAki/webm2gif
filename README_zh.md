@@ -23,14 +23,15 @@
 
 2. 运行以下命令以转换单个 WebM 文件：
    ```bash
-   webm2gif.exe -i <input_webm_file.webm> -o <output_gif_folder>
+   webm2gif.exe -i <输入文件.webm> -o <GIF输出目录> -l <循环次数>
    ```
    - `-i` 或 `--input`：输入的 WebM 文件。
    - `-o` 或 `--output`：GIF 文件的输出目录。
+   - `-l` 或 `--loop`: 设置图像循环次数，默认为0(无限循环)
 
 3. 运行以下命令以转换目录中的所有 WebM 文件：
    ```bash
-   webm2gif.exe -i <input_webm_folder> -o <output_gif_folder>
+   webm2gif.exe -i <webm输入目录> -o <GIF输出目录>
    ```
 
 ## 日志记录
